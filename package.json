@@ -1,0 +1,20 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/es6-shim": "^0.31.32",
+    "@types/lodash": "^4.14.50",
+    "@types/node": "^7.0.0",
+    "lodash": "^4.17.4",
+    "rxjs": "^5.0.3",
+    "systemjs": "^0.19.42",
+    "typescript": "^2.1.5"
+  }
+}
